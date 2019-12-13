@@ -1,11 +1,9 @@
-remote_theme: barryclark/jekyll-now
-
 #
 # This file contains configuration flags to customize your site
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Espen Stranger Seland
 
 
 
@@ -25,7 +23,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: rockphotog 
   instagram:
   linkedin:
   pinterest:
