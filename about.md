@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Organizational, semantic and technical interoperability. Entreprise and information architecture and health informatics.
 
-### More Information
+Working with and promoting secure organizational, semantic and technical interoperability within and outside Norwegian healthcare, using open and free standards.
 
-A place to include any other types of information that you'd like to include about yourself.
+Specialties: Business strategy, information modelling, medical and healthcare informatics, semantic interoperability, B2B communication, standardization, project management, security, XML technologies. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[espen@seland.org](mailto:espen@seland.org)
