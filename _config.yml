@@ -5,13 +5,11 @@
 # Name of your site (displayed in the header)
 name: Espen Stranger Seland
 
-
-
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Doing things on FHIR
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars0.githubusercontent.com/u/5932885?s=400&u=d60600a70dee0fb3c8eb1e308fe5933d370c2a52&v
 
 #
 # Flags below are optional
@@ -20,15 +18,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: espen@seland.org
   facebook:
   flickr:
   github: rockphotog 
-  instagram:
-  linkedin:
+  instagram: rockphotog
+  linkedin: espenss
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: espenseland
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -43,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://rockphotog.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
