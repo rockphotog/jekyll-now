@@ -102,14 +102,14 @@ Valgfritt.
 
 Ulempe med bruk av OID er at FHIR servere ikke kan finne kodeverkene og benytte disse for å validere kodene. Det kan derfor være gode grunner til å definere kodeverkene med FHIR resursene ValueSet og CodeSystem og benytte disse direkte i profilene. Man bruker da en URL for å identifisere [ValueSet og CodeSystem](https://git.sarepta.ehelse.no/utvikling/FHIR/wikis/codesystem-og-valueset).
 
-```xml
+````xml
 <event>
     <system value="http://ehelse.no/fhir/CodeSystem/vkp-message-event-v05" />
     <code value="MedicationDispense" />
 </event>
-```
+````
 
-```javascript
+````javascript
 "valueCodeableConcept":{
   "coding": [
   {
@@ -119,7 +119,7 @@ Ulempe med bruk av OID er at FHIR servere ikke kan finne kodeverkene og benytte 
   }
  ]
 }
-```
+````
 # Internasjonale terminologier og kodeverk
 
 Flere kodeverk har gitte namespace, se et [utvalg på HL7 sine sider](https://www.hl7.org/fhir/terminologies-systems.html).
