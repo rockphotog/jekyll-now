@@ -12,4 +12,4 @@ Specialties: Business strategy, information modelling, medical and healthcare in
 
 ### Contact me
 
-[espen@seland.org](mailto:espen@seland.org)
+[espen--a--seland-org](mailto:espen--a--seland-org)
